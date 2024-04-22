@@ -4,11 +4,15 @@ Amarnath Paara
 Sri Krishna Nimmagadda
 Prem Chand Tallapaneni
 
-Screenshots of the App Interface:<img width="1440" alt="MicrosoftTeams-image" src="https://github.com/amarnathpaara/Tech_Mobile_Final_Project/assets/52590367/7d12e324-7c9f-493e-99e1-f4bc9054b989">
-<img width="1440" alt="MicrosoftTeams-image (1)" src="https://github.com/amarnathpaara/Tech_Mobile_Final_Project/assets/52590367/197a0821-ff28-4637-9bfd-1d7f944a7541">
-<img width="1440" alt="MicrosoftTeams-image (2)" src="https://github.com/amarnathpaara/Tech_Mobile_Final_Project/assets/52590367/fde5ff6e-7a1e-4a3f-9911-8b7ef724e5cf">
-<img width="1440" alt="MicrosoftTeams-image (3)" src="https://github.com/amarnathpaara/Tech_Mobile_Final_Project/assets/52590367/e43ac3aa-412b-465a-9814-794851d8f7a9">
-<img width="1440" alt="MicrosoftTeams-image (4)" src="https://github.com/amarnathpaara/Tech_Mobile_Final_Project/assets/52590367/98e6e1b4-e5cd-474d-b386-c0ecca63d26c">
+Screenshots of the App Interface:
+
+<img width="1440" alt="MicrosoftTeams-image" src="https://github.com/amarnathpaara/Tech_Mobile_Final_Project/assets/52590367/82a3b179-2094-4f42-af15-99f978d5e8a1">
+<img width="1440" alt="MicrosoftTeams-image (1)" src="https://github.com/amarnathpaara/Tech_Mobile_Final_Project/assets/52590367/d8ca83d1-f80b-44de-8e04-39343e5a6422">
+<img width="1440" alt="MicrosoftTeams-image (2)" src="https://github.com/amarnathpaara/Tech_Mobile_Final_Project/assets/52590367/93633f87-8571-4f1a-b727-a50369504cb5">
+<img width="1440" alt="MicrosoftTeams-image (3)" src="https://github.com/amarnathpaara/Tech_Mobile_Final_Project/assets/52590367/7cb7b0f6-1183-42ba-a437-6157fe21332d">
+<img width="1440" alt="MicrosoftTeams-image (4)" src="https://github.com/amarnathpaara/Tech_Mobile_Final_Project/assets/52590367/89e8bd78-4664-4916-9db1-64da4825f0a0">
+
+
 
 
 
